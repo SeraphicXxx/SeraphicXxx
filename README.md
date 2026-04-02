@@ -30,10 +30,10 @@ A canvas-based browser game where players control a spaceship and dodge incoming
 
 ### OneHire – Web and Android-Based HR Management System
 UAAGI OneHire is a web and Android-based careers and HR management system developed for United Asia Automotive Group, Inc. It enables applicants to browse job openings, submit applications, upload résumés, and track their application status. Meanwhile, HR personnel can manage job postings, review applications, and schedule interviews, streamlining the overall recruitment process.
+
 ---
 
-## GitHub Statistics
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SeraphicXxx&show_icons=true&theme=default)
+![GitHub Stats (Classic)](https://github-readme-stats.vercel.app/api?username=SeraphicXxx)
 
 ---
 
