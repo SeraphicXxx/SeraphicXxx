@@ -33,10 +33,6 @@ UAAGI OneHire is a web and Android-based careers and HR management system develo
 
 ---
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SeraphicXxx&show_icons=true&cache_seconds=86400)
-
----
-
 ## Contact
 - Email: angelemiejane.bien@gmail.com  
 
