@@ -1,8 +1,7 @@
 <div align="center">
 
-<h1>Angel Emie <em>Jane</em> Bien</h1>
+<h1><strong>Angel Emie Jane Bien</strong></h1>
 <p>BS Computer Science · University of Caloocan City</p>
-<p><a href="mailto:angelemiejane.bien@gmail.com">angelemiejane.bien@gmail.com</a></p>
 
 </div>
 
