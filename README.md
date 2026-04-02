@@ -1,42 +1,48 @@
-<h1 align="center">Angel Emie Jane Bien</h1>
-<p align="center">
-  BS Computer Science Student
-</p>
+<div align="center">
+
+<h1>Angel Emie <em>Jane</em> Bien</h1>
+<p>BS Computer Science · University of Caloocan City</p>
+<p><a href="mailto:angelemiejane.bien@gmail.com">angelemiejane.bien@gmail.com</a></p>
+
+</div>
 
 ---
 
-## About Me
-I am a Bachelor of Science in Computer Science student at the University of Caloocan City with a strong interest in developing functional and user-focused systems. I enjoy building applications that solve real-world problems, with a focus on clean design and efficient structure.
+## About
+
+Computer science student building functional, user-focused software — from web apps to Android systems. I enjoy solving real-world problems with clean design and efficient structure, and I'm currently deepening my skills in modern frontend and backend frameworks.
 
 ---
 
 ## Technical Skills
-- **Languages:** Java, HTML, CSS  
-- **Tools & Technologies:** Git, GitHub, VSCode, VB.NET, Atom, Android Studio 
-- **Currently Learning:** TailWind, Laravel 
+
+**Languages:** Java · HTML · CSS · JavaScript · VB.NET
+
+**Tools:** Git · GitHub · VSCode · Android Studio · Atom
+
+**Currently Learning:** Tailwind CSS · Laravel
 
 ---
 
 ## Projects
 
+### ⭐ OneHire — Web and Android-Based HR Management System
+Web and Android careers platform built for United Asia Automotive Group, Inc. Applicants can browse job openings, submit applications, upload résumés, and track their status. HR personnel manage postings, review applications, and schedule interviews — streamlining the full recruitment pipeline.
+
 ### RSVP Invitation System
-A web-based RSVP invitation system that enables users to confirm their attendance through a clean and interactive interface. The system is developed using HTML, CSS, and JavaScript for the frontend, while Google Forms serves as the backend for collecting and managing responses. It is designed to simplify event coordination by providing an accessible, efficient, and user-friendly way to track guest participation.
+Web-based event RSVP tool with a clean, interactive interface. Uses Google Forms as a backend to collect and manage responses, making guest tracking simple for organizers.
+`HTML` `CSS` `JavaScript`
 
 ### Library Management System
-A Java-based application with a graphical user interface that enables administrators to manage books and student accounts, including adding, updating, and deleting records.
+Java desktop application with a GUI for administrators to manage books and student accounts — add, update, and delete records with ease.
+`Java`
 
 ### Asteroid Drift
-A canvas-based browser game where players control a spaceship and dodge incoming asteroids, built using HTML, CSS, and JavaScript.
-
-### OneHire – Web and Android-Based HR Management System
-UAAGI OneHire is a web and Android-based careers and HR management system developed for United Asia Automotive Group, Inc. It enables applicants to browse job openings, submit applications, upload résumés, and track their application status. Meanwhile, HR personnel can manage job postings, review applications, and schedule interviews, streamlining the overall recruitment process.
+Canvas-based browser game where players pilot a spaceship and dodge incoming asteroids.
+`HTML` `CSS` `JavaScript`
 
 ---
 
 ## Contact
-- Email: angelemiejane.bien@gmail.com  
 
----
-
-## Notes
-This profile highlights selected projects and ongoing learning in software and web development.
+📧 [angelemiejane.bien@gmail.com](mailto:angelemiejane.bien@gmail.com)
