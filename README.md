@@ -27,6 +27,7 @@ Computer science student building functional, user-focused software — from web
 
 ### ⭐ OneHire — Web and Android-Based HR Management System
 Web and Android careers platform built for United Asia Automotive Group, Inc. Applicants can browse job openings, submit applications, upload résumés, and track their status. HR personnel manage postings, review applications, and schedule interviews — streamlining the full recruitment pipeline.
+`HTML` `CSS` `JavaScript` `TailWind` `PHP` `Node.js` `Java` `XML`
 
 ### RSVP Invitation System
 Web-based event RSVP tool with a clean, interactive interface. Uses Google Forms as a backend to collect and manage responses, making guest tracking simple for organizers.
@@ -34,7 +35,7 @@ Web-based event RSVP tool with a clean, interactive interface. Uses Google Forms
 
 ### Library Management System
 Java desktop application with a GUI for administrators to manage books and student accounts — add, update, and delete records with ease.
-`Java`
+`Java` `JavaSwing`
 
 ### Asteroid Drift
 Canvas-based browser game where players pilot a spaceship and dodge incoming asteroids.
