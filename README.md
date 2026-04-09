@@ -68,7 +68,7 @@ link: https://seraphicxxx.github.io/Asteroid-Drift/
 ### ARELLANO UNIVERSITY-EEC LIBRARY MANAGEMENT SYSTEM
 VB.NET-based Library Management System that digitizes library operations, enabling easy tracking of books, student records, and inventory using unique codes and rack numbers.
 
-UI and System Preview
+UI and System Preview: https://docs.google.com/document/d/1YgcZ6TjvI0blcpP4C9WY6aESnkO-_wKjunWLXKj_WN4/edit?usp=sharing
 
 ![Visual Basic](https://img.shields.io/badge/Visual%20Basic-512BD4?style=flat&logo=dotnet&logoColor=white)
 ![Windows Forms](https://img.shields.io/badge/WinForms-0078D6?style=flat&logo=windows&logoColor=white)
