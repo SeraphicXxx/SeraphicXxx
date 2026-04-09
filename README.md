@@ -65,6 +65,14 @@ link: https://seraphicxxx.github.io/Asteroid-Drift/
 ![CSS](https://img.shields.io/badge/CSS-1572B6?style=flat&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=333)
 
+### ARELLANO UNIVERSITY-EEC LIBRARY MANAGEMENT SYSTEM
+VB.NET-based Library Management System that digitizes library operations, enabling easy tracking of books, student records, and inventory using unique codes and rack numbers.
+
+UI and System Preview
+
+![Visual Basic](https://img.shields.io/badge/Visual%20Basic-512BD4?style=flat&logo=dotnet&logoColor=white)
+![Windows Forms](https://img.shields.io/badge/WinForms-0078D6?style=flat&logo=windows&logoColor=white)
+
 ---
 
 ## Contact
