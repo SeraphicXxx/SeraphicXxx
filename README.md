@@ -17,6 +17,15 @@ I enjoy designing clean interfaces and developing efficient solutions across web
 
 ---
 
+## Highlights
+
+- Built full-stack recruitment system (OneHire)  
+- Developed multiple web and desktop applications  
+- Strong focus on UI/UX and system structure  
+- Experience in frontend + backend integration  
+
+---
+
 ## Technical Stack
 
 **Languages**  
@@ -30,18 +39,20 @@ Tailwind CSS · Laravel
 
 ---
 
-## Projects
+## Projects Overview
+
+A collection of systems focused on real-world use cases, usability, and clean architecture.
 
 ---
 
 ### OneHire — Recruitment Management System
 
 Web and Android-based recruitment platform for United Asia Automotive Group, Inc.  
-Handles job postings, applications, résumé uploads, and HR management workflows.
+Handles job postings, applications, résumé uploads, and HR workflows.
 
-🔗 https://uaagionehire.bscs3b.com/user/pages/LandingPage.php
+🔗 https://uaagionehire.bscs3b.com/user/pages/LandingPage.php  
 
-**Stack**
+**Stack**  
 ![HTML](https://img.shields.io/badge/HTML-ff4d88?style=flat&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS-ff66a3?style=flat&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-ff99cc?style=flat&logo=javascript&logoColor=333)
@@ -54,47 +65,47 @@ Handles job postings, applications, résumé uploads, and HR management workflow
 
 ### RSVP Invitation System
 
-Web-based RSVP system with Google Forms integration for response collection and tracking.
+Web-based RSVP system with Google Forms integration for response tracking.
 
-🔗 https://seraphicxxx.github.io/rsvp.invitation/
+🔗 https://seraphicxxx.github.io/rsvp.invitation/  
 
-**Stack**
+**Stack**  
 ![HTML](https://img.shields.io/badge/HTML-ff4d88?style=flat&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS-ff66a3?style=flat&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-ff99cc?style=flat&logo=javascript&logoColor=333)
-
----
-
-### Library Management System
-
-Java desktop application for managing books and student records with CRUD operations and GUI interface.
-
-**Stack**
-![Java](https://img.shields.io/badge/Java-ff4da6?style=flat&logo=openjdk&logoColor=white)
-![Swing](https://img.shields.io/badge/Java_Swing-ff80bf?style=flat)
 
 ---
 
 ### Asteroid Drift
 
-Canvas-based browser game where players control a spaceship and avoid asteroids.
+Canvas-based browser game where players avoid asteroids using keyboard controls.
 
-🔗 https://seraphicxxx.github.io/Asteroid-Drift/
+🔗 https://seraphicxxx.github.io/Asteroid-Drift/  
 
-**Stack**
+**Stack**  
 ![HTML](https://img.shields.io/badge/HTML-ff4d88?style=flat&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS-ff66a3?style=flat&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-ff99cc?style=flat&logo=javascript&logoColor=333)
 
 ---
 
+### Library Management System (Java)
+
+Desktop system for managing books and student records with CRUD operations.
+
+**Stack**  
+![Java](https://img.shields.io/badge/Java-ff4da6?style=flat&logo=openjdk&logoColor=white)
+![Swing](https://img.shields.io/badge/Java_Swing-ff80bf?style=flat)
+
+---
+
 ### Library Management System (VB.NET)
 
-Desktop system for digitizing library operations including inventory tracking and student records.
+Digitized library system for inventory and student tracking.
 
-🔗 https://docs.google.com/document/d/1YgcZ6TjvI0blcpP4C9WY6aESnkO-_wKjunWLXKj_WN4/edit?usp=sharing
+🔗 https://docs.google.com/document/d/1YgcZ6TjvI0blcpP4C9WY6aESnkO-_wKjunWLXKj_WN4/edit?usp=sharing  
 
-**Stack**
+**Stack**  
 ![VB.NET](https://img.shields.io/badge/Visual_Basic-ff66b2?style=flat&logo=dotnet&logoColor=white)
 ![WinForms](https://img.shields.io/badge/WinForms-ff99cc?style=flat&logo=windows&logoColor=white)
 
@@ -102,11 +113,11 @@ Desktop system for digitizing library operations including inventory tracking an
 
 ### Rovage Motors E-Commerce Website
 
-Motorcycle browsing platform with listings, specs, and dealership integration.
+Motorcycle browsing platform with listings and dealership integration.
 
-🔗 https://rovage-motors-ver2.bscs3b.com/
+🔗 https://rovage-motors-ver2.bscs3b.com/  
 
-**Stack**
+**Stack**  
 ![Tailwind](https://img.shields.io/badge/Tailwind-ffb3d9?style=flat&logo=tailwindcss&logoColor=white)
 ![HTML](https://img.shields.io/badge/HTML-ff4d88?style=flat&logo=html5&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-ff80bf?style=flat&logo=php&logoColor=white)
@@ -126,13 +137,24 @@ Motorcycle browsing platform with listings, specs, and dealership integration.
 
 ---
 
+## Currently Working On
+
+- Improving full-stack development skills  
+- Learning Laravel and API integration  
+- Enhancing UI/UX design consistency  
+
+---
+
 ## Contact
 
 📧 angelemiejane.bien@gmail.com  
-📍 Available for freelance / collaboration  
+📍 Open to freelance and collaboration opportunities  
 
+---
 
 <div align="center">
+
+Made with consistency, curiosity, and code 💻💗
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff69b4,100:ffb6c1&height=120&section=footer"/>
 
