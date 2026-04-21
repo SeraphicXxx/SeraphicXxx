@@ -112,6 +112,7 @@ Motorcycle browsing platform with listings, specs, and dealership integration.
 ![PHP](https://img.shields.io/badge/PHP-ff80bf?style=flat&logo=php&logoColor=white)
 
 ---
+
 ## Contributions
 
 <div align="center">
@@ -127,9 +128,8 @@ Motorcycle browsing platform with listings, specs, and dealership integration.
 
 ## Contact
 
-[![Email](https://img.shields.io/badge/Email-ff69b4?style=for-the-badge&logo=gmail&logoColor=white)](mailto:angelemiejane.bien@gmail.com)
-
-Open to collaboration, internships, and project opportunities.
+📧 angelemiejane.bien@gmail.com  
+📍 Available for freelance / collaboration  
 
 
 <div align="center">
