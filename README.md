@@ -116,7 +116,8 @@ Motorcycle browsing platform with listings, specs, and dealership integration.
 ![GitHub Streak](https://streak-stats.demolab.com?user=SeraphicXxx&theme=default&ring=ff69b4&fire=ff69b4&currStreakLabel=ff69b4&sideLabels=ff69b4) 
 ![Stats](https://github-readme-stats.vercel.app/api?username=SeraphicXxx&show_icons=true&theme=default&title_color=ff69b4&icon_color=ff69b4)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SeraphicXxx&layout=compact&theme=default&title_color=ff69b4)
-![Productive Time](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=SeraphicXxx&theme=default)
+![Profile Details](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SeraphicXxx&theme=radical)
+![Extra Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=SeraphicXxx&theme=radical)
 
 
 ---
