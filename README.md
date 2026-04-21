@@ -84,7 +84,8 @@ link: https://rovage-motors-ver2.bscs3b.com/
 
 ---
 ### Contributions
-![snake animation](https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg)
+
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=SeraphicXxx&theme=react-dark)
 
 ---
 
