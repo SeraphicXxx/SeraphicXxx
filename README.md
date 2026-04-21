@@ -119,7 +119,8 @@ Motorcycle browsing platform with listings, specs, and dealership integration.
   <table>
     <tr>
       <td>
-        <img src="https://streak-stats.demolab.com?user=SeraphicXxx&theme=default&ring=ff69b4&fire=ff69b4&currStreakLabel=ff69b4&sideLabels=ff69b4"/>
+          <img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SeraphicXxx&layout=compact&theme=default&title_color=ff69b4"/>
+       
       </td>
       <td>
         <img src="https://github-readme-stats.vercel.app/api?username=SeraphicXxx&show_icons=true&theme=default&title_color=ff69b4&icon_color=ff69b4"/>
@@ -127,7 +128,7 @@ Motorcycle browsing platform with listings, specs, and dealership integration.
     </tr>
     <tr>
       <td colspan="2" align="center">
-        <img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SeraphicXxx&layout=compact&theme=default&title_color=ff69b4"/>
+        <img src="https://streak-stats.demolab.com?user=SeraphicXxx&theme=default&ring=ff69b4&fire=ff69b4&currStreakLabel=ff69b4&sideLabels=ff69b4"/>
       </td>
     </tr>
   </table>
