@@ -83,7 +83,10 @@ link: https://rovage-motors-ver2.bscs3b.com/
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white)
 
 ---
+### Contributions
 ![snake animation](https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg)
+
+---
 
 ## Contact
 
