@@ -114,9 +114,11 @@ Motorcycle browsing platform with listings, specs, and dealership integration.
 ---
 
 ## Contributions
+![snake animation](https://github.com/SeraphicXxx/SeraphicXxx/blob/output/github-contribution-grid-snake.svg?color_snake=ff69b4&color_dots=ffc0cb,ffb6c1,ff69b4,ff1493,ff69b4)
 
-![GitHub Contribution Grid](https://ghchart.rshah.org/ff69b4/SeraphicXxx)
-![3D Contributions](https://github-profile-3d-contrib.vercel.app/api?username=SeraphicXxx)
+![frame1](https://ghchart.rshah.org/ffb6c1/SeraphicXxx)
+![frame2](https://ghchart.rshah.org/ff69b4/SeraphicXxx)
+![frame3](https://ghchart.rshah.org/ff1493/SeraphicXxx)
 
 ---
 
