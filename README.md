@@ -115,8 +115,7 @@ Motorcycle browsing platform with listings, specs, and dealership integration.
 
 ## Contributions
 
-![GitHub Contributions](https://ghchart.rshah.org/ff69b4/SeraphicXxx)
-
+![GitHub Streak](https://streak-stats.demolab.com?user=SeraphicXxx&theme=default&ring=ff69b4&fire=ff69b4&currStreakLabel=ff69b4&sideLabels=ff69b4)
 ![Stats](https://github-readme-stats.vercel.app/api?username=SeraphicXxx&show_icons=true&theme=default&title_color=ff69b4&icon_color=ff69b4)
 
 ---
@@ -125,7 +124,6 @@ Motorcycle browsing platform with listings, specs, and dealership integration.
 
 📧 angelemiejane.bien@gmail.com
 
----
 
 <div align="center">
 
