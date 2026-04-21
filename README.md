@@ -85,9 +85,7 @@ link: https://rovage-motors-ver2.bscs3b.com/
 ---
 ### Contributions
 
-![Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=SeraphicXxx&theme=tokyonight)
-
-![Languages](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=SeraphicXxx&theme=tokyonight)
+![Overview](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SeraphicXxx&theme=github_dark)
 
 ---
 
