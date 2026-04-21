@@ -16,7 +16,7 @@ I enjoy solving real-world problems with clean design and efficient structure, a
 
 ---
 
-## 🌸 Technical Skills
+## Technical Skills
 
 **Languages:** Java · HTML · CSS · JavaScript · VB.NET  
 
