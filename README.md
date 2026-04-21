@@ -120,19 +120,6 @@ Motorcycle browsing platform with listings, specs, and dealership integration.
 <td><img src="https://streak-stats.demolab.com?user=SeraphicXxx&theme=default&ring=ff69b4&fire=ff69b4"/></td>
 <td><img src="https://github-readme-stats.vercel.app/api?username=SeraphicXxx&show_icons=true&theme=default&title_color=ff69b4&icon_color=ff69b4"/></td>
 </tr>
-<tr>
-<td>
-
-### Coding Focus
-
-Web Development  
-Android Systems  
-Backend Logic  
-UI / UX Design  
-
-</td>
-<td><img src="https://github-readme-stats.vercel.app/api/pin/?username=SeraphicXxx&repo=UAAGIOneHire&theme=default&title_color=ff69b4&icon_color=ff69b4"/></td>
-</tr>
 </table>
 </div>
 
