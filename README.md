@@ -123,13 +123,13 @@ Motorcycle browsing platform with listings, specs, and dealership integration.
 </table>
 </div>
 
-
-
 ---
 
 ## Contact
 
-📧 angelemiejane.bien@gmail.com
+[![Email](https://img.shields.io/badge/Email-ff69b4?style=for-the-badge&logo=gmail&logoColor=white)](mailto:angelemiejane.bien@gmail.com)
+
+Open to collaboration, internships, and project opportunities.
 
 
 <div align="center">
