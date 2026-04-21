@@ -28,14 +28,36 @@ I enjoy designing clean interfaces and developing efficient solutions across web
 
 ## Technical Stack
 
-**Languages**  
-Java · HTML · CSS · JavaScript · VB.NET  
+### Languages
+![Java](https://img.shields.io/badge/Java-ff4da6?style=for-the-badge&logo=openjdk&logoColor=white)
+![HTML](https://img.shields.io/badge/HTML-ff66a3?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-ff99cc?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-ffb3d9?style=for-the-badge&logo=javascript&logoColor=333)
+![PHP](https://img.shields.io/badge/PHP-ff80bf?style=for-the-badge&logo=php&logoColor=white)
+![VB.NET](https://img.shields.io/badge/VB.NET-ff4d88?style=for-the-badge&logo=dotnet&logoColor=white)
 
-**Tools**  
-Git · GitHub · VSCode · Android Studio · Atom  
+---
 
-**Currently Learning**  
-Tailwind CSS · Laravel  
+### Frameworks & Styling
+![Tailwind](https://img.shields.io/badge/TailwindCSS-ff69b4?style=for-the-badge&logo=tailwindcss&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-ff99cc?style=for-the-badge&logo=laravel&logoColor=white)
+
+---
+
+### Tools & Platforms
+![Git](https://img.shields.io/badge/Git-ff4da6?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-ff66a3?style=for-the-badge&logo=github&logoColor=white)
+![VSCode](https://img.shields.io/badge/VSCode-ff99cc?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![Android Studio](https://img.shields.io/badge/Android_Studio-ffb3d9?style=for-the-badge&logo=androidstudio&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-ff80bf?style=for-the-badge&logo=figma&logoColor=white)
+![Cisco](https://img.shields.io/badge/Cisco_Packet_Tracer-ff4d88?style=for-the-badge)
+
+---
+
+### Currently Learning
+- Laravel ecosystem  
+- API integration  
+- Advanced frontend architecture  
 
 ---
 
