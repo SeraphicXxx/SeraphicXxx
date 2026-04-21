@@ -19,7 +19,7 @@ I enjoy designing clean interfaces and developing efficient solutions across web
 
 ## Highlights
 
-- Built full-stack recruitment system (OneHire)  
+- Built the frontend interface and user experience for the OneHire recruitment system
 - Developed multiple web and desktop applications  
 - Strong focus on UI/UX and system structure  
 - Experience in frontend + backend integration  
@@ -154,7 +154,7 @@ Motorcycle browsing platform with listings and dealership integration.
 
 <div align="center">
 
-Made with consistency, curiosity, and code 💻💗
+Focused on clean UI, responsive design, and user experience
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff69b4,100:ffb6c1&height=120&section=footer"/>
 
