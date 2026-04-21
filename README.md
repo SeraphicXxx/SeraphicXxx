@@ -157,7 +157,6 @@ Motorcycle browsing platform with listings and dealership integration.
 </table>
 </div>
 
-![snake gif](https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg)
 ---
 
 ## Currently Working On
