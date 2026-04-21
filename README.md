@@ -1,9 +1,10 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:ffb6c1,100:ff69b4&height=140&section=header"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:ffb6c1,100:ff69b4&height=150&section=header"/>
 
-<h1 style="color:#ff4da6;"><strong>Angel Emie Jane Bien</strong></h1>
-<p>🎓 BS Computer Science · University of Caloocan City</p>
+# Angel Emie Jane Bien
+
+BS Computer Science · University of Caloocan City
 
 </div>
 
@@ -11,18 +12,21 @@
 
 ## About
 
-Computer science student building functional, user-focused software — from web apps to Android systems.  
-I enjoy solving real-world problems with clean design and efficient structure, and I'm currently deepening my skills in modern frontend and backend frameworks.
+Computer science student focused on building functional, user-centered systems.  
+I enjoy designing clean interfaces and developing efficient solutions across web and desktop applications.
 
 ---
 
-## Technical Skills
+## Technical Stack
 
-**Languages:** Java · HTML · CSS · JavaScript · VB.NET  
+**Languages**  
+Java · HTML · CSS · JavaScript · VB.NET  
 
-**Tools:** Git · GitHub · VSCode · Android Studio · Atom  
+**Tools**  
+Git · GitHub · VSCode · Android Studio · Atom  
 
-**Currently Learning:** Tailwind CSS · Laravel  
+**Currently Learning**  
+Tailwind CSS · Laravel  
 
 ---
 
@@ -30,30 +34,31 @@ I enjoy solving real-world problems with clean design and efficient structure, a
 
 ---
 
-### ⭐ OneHire — Web and Android-Based Careers and Recruitment Management System
+### OneHire — Recruitment Management System
 
-Web and Android careers platform built for United Asia Automotive Group, Inc. Applicants can browse job openings, submit applications, upload résumés, and track their status. HR personnel manage postings, review applications, and schedule interviews — streamlining the full recruitment pipeline.
+Web and Android-based recruitment platform for United Asia Automotive Group, Inc.  
+Handles job postings, applications, résumé uploads, and HR management workflows.
 
 🔗 https://uaagionehire.bscs3b.com/user/pages/LandingPage.php
 
-**Tech Stack**
+**Stack**
 ![HTML](https://img.shields.io/badge/HTML-ff4d88?style=flat&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS-ff66a3?style=flat&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-ff99cc?style=flat&logo=javascript&logoColor=333)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind-ffb3d9?style=flat&logo=tailwindcss&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-ff66b2?style=flat&logo=php&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-ff80bf?style=flat&logo=nodedotjs&logoColor=white)
+![Tailwind](https://img.shields.io/badge/Tailwind-ffb3d9?style=flat&logo=tailwindcss&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-ff80bf?style=flat&logo=php&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-ff66b2?style=flat&logo=nodedotjs&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ff4da6?style=flat&logo=openjdk&logoColor=white)
 
 ---
 
 ### RSVP Invitation System
 
-Web-based event RSVP tool with a clean, interactive interface using Google Forms as backend.
+Web-based RSVP system with Google Forms integration for response collection and tracking.
 
 🔗 https://seraphicxxx.github.io/rsvp.invitation/
 
-**Tech Stack**
+**Stack**
 ![HTML](https://img.shields.io/badge/HTML-ff4d88?style=flat&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS-ff66a3?style=flat&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-ff99cc?style=flat&logo=javascript&logoColor=333)
@@ -62,39 +67,53 @@ Web-based event RSVP tool with a clean, interactive interface using Google Forms
 
 ### Library Management System
 
-Java desktop application for managing books and student accounts.
+Java desktop application for managing books and student records with CRUD operations and GUI interface.
 
-**Tech Stack**
+**Stack**
 ![Java](https://img.shields.io/badge/Java-ff4da6?style=flat&logo=openjdk&logoColor=white)
-![Java Swing](https://img.shields.io/badge/Swing-ff80bf?style=flat)
+![Swing](https://img.shields.io/badge/Java_Swing-ff80bf?style=flat)
 
 ---
 
-### 🚀 Asteroid Drift
+### Asteroid Drift
 
-Canvas-based browser game where players dodge asteroids in space.
+Canvas-based browser game where players control a spaceship and avoid asteroids.
 
 🔗 https://seraphicxxx.github.io/Asteroid-Drift/
 
+**Stack**
+![HTML](https://img.shields.io/badge/HTML-ff4d88?style=flat&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-ff66a3?style=flat&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-ff99cc?style=flat&logo=javascript&logoColor=333)
+
 ---
 
-### ARELLANO UNIVERSITY-EEC LIBRARY MANAGEMENT SYSTEM
+### Library Management System (VB.NET)
 
-VB.NET system that digitizes library operations using structured inventory tracking.
+Desktop system for digitizing library operations including inventory tracking and student records.
 
 🔗 https://docs.google.com/document/d/1YgcZ6TjvI0blcpP4C9WY6aESnkO-_wKjunWLXKj_WN4/edit?usp=sharing
+
+**Stack**
+![VB.NET](https://img.shields.io/badge/Visual_Basic-ff66b2?style=flat&logo=dotnet&logoColor=white)
+![WinForms](https://img.shields.io/badge/WinForms-ff99cc?style=flat&logo=windows&logoColor=white)
 
 ---
 
 ### Rovage Motors E-Commerce Website
 
-Online motorcycle browsing platform with dealership integration.
+Motorcycle browsing platform with listings, specs, and dealership integration.
 
 🔗 https://rovage-motors-ver2.bscs3b.com/
 
+**Stack**
+![Tailwind](https://img.shields.io/badge/Tailwind-ffb3d9?style=flat&logo=tailwindcss&logoColor=white)
+![HTML](https://img.shields.io/badge/HTML-ff4d88?style=flat&logo=html5&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-ff80bf?style=flat&logo=php&logoColor=white)
+
 ---
 
-## 📊 Contributions
+## Activity
 
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=SeraphicXxx&theme=rogue)
 
@@ -102,7 +121,7 @@ Online motorcycle browsing platform with dealership integration.
 
 ## Contact
 
-📧 [angelemiejane.bien@gmail.com](mailto:angelemiejane.bien@gmail.com)
+📧 angelemiejane.bien@gmail.com
 
 ---
 
