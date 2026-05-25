@@ -1,191 +1,114 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:ffb6c1,100:ff69b4&height=180&section=header&text=Angel%20Emie%20Jane%20Bien&fontSize=35&fontColor=ffffff&animation=fadeIn&fontAlignY=35"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=200&color=0:0d1117,50:ff69b4,100:ffb6c1&text=Angel%20Emie%20Jane%20Bien&fontSize=36&fontColor=ffffff&animation=fadeIn&fontAlignY=38"/>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=22&duration=3000&pause=1000&color=FF69B4&center=true&vCenter=true&width=600&lines=BS+Computer+Science+Student;UI%2FUX+Designer;Frontend+Developer;Building+Functional+%26+Creative+Systems"/>
-
-<br>
-
-<p>
-Computer Science student passionate about clean UI, user-centered experiences, and functional full-stack systems.
-</p>
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=22&pause=1000&color=FF69B4&center=true&vCenter=true&width=500&lines=UI%2FUX+Designer;Frontend+Developer;Computer+Science+Student"/>
 
 </div>
 
 ---
 
-# About Me
+## About
 
-```yaml
-Name: Angel Emie Jane Bien
-Role: UI/UX Designer & Frontend Developer
-Education: BS Computer Science
-Focus:
-  - Frontend Development
-  - UI/UX Design
-  - Responsive Interfaces
-  - System Development
-Currently Learning:
-  - Laravel
-  - API Integration
-  - Advanced Frontend Architecture
-```
+Computer Science student focused on building clean, functional, and user-centered systems.  
+Interested in frontend development, UI/UX design, and responsive web interfaces.
 
 ---
 
-# Tech Stack
+## Tech Stack
 
 <div align="center">
 
-### Languages
-<img src="https://skillicons.dev/icons?i=java,html,css,js,php" />
-
-<br><br>
-
-### Frameworks & Tools
-<img src="https://skillicons.dev/icons?i=tailwind,laravel,figma,vscode,github,git" />
-
-<br><br>
-
-### Other Tools
-<img src="https://img.shields.io/badge/VB.NET-ff69b4?style=for-the-badge&logo=dotnet&logoColor=white"/>
-<img src="https://img.shields.io/badge/Cisco_Packet_Tracer-ffb6c1?style=for-the-badge"/>
+<img src="https://skillicons.dev/icons?i=html,css,js,php,java,tailwind,laravel,figma,git,github,vscode"/>
 
 </div>
 
 ---
 
-# Featured Projects
+## Projects
 
-## 🚀 OneHire — Recruitment Management System
+### OneHire — Recruitment Management System
 
-Web & Android-based recruitment platform for United Asia Automotive Group, Inc.
-
-### Features
-- Job posting management
-- Resume upload system
-- Applicant tracking
-- HR workflow integration
-- Responsive frontend UI
-
-### Tech Stack
-![HTML](https://img.shields.io/badge/HTML-ff4d88?style=flat&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS-ff66a3?style=flat&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-ff99cc?style=flat&logo=javascript&logoColor=333)
-![Tailwind](https://img.shields.io/badge/TailwindCSS-ffb3d9?style=flat&logo=tailwindcss&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-ff80bf?style=flat&logo=php&logoColor=white)
+Recruitment platform for United Asia Automotive Group, Inc. featuring applicant tracking, resume uploads, and HR workflows.
 
 🔗 https://uaagionehire.bscs3b.com/user/pages/LandingPage.php
 
 ---
 
-## 💌 RSVP Invitation Website
+### RSVP Invitation Website
 
-Elegant RSVP website with Google Forms integration.
-
-### Tech Stack
-![HTML](https://img.shields.io/badge/HTML-ff4d88?style=flat&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS-ff66a3?style=flat&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-ff99cc?style=flat&logo=javascript&logoColor=333)
+Responsive RSVP website integrated with Google Forms.
 
 🔗 https://seraphicxxx.github.io/rsvp.invitation/
 
 ---
 
-## 🎮 Asteroid Drift
+### Asteroid Drift
 
 Canvas-based browser game focused on movement and collision mechanics.
-
-### Tech Stack
-![HTML](https://img.shields.io/badge/HTML-ff4d88?style=flat&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS-ff66a3?style=flat&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-ff99cc?style=flat&logo=javascript&logoColor=333)
 
 🔗 https://seraphicxxx.github.io/Asteroid-Drift/
 
 ---
 
-## 📚 Library Management System (Java)
+### Rovage Motors
 
-Desktop-based CRUD system for managing books and student records.
-
-### Tech Stack
-![Java](https://img.shields.io/badge/Java-ff69b4?style=flat&logo=openjdk&logoColor=white)
-![Swing](https://img.shields.io/badge/Java_Swing-ffb6c1?style=flat)
-
----
-
-## 🏍️ Rovage Motors Website
-
-Motorcycle browsing platform with dealership integration and modern UI design.
-
-### Tech Stack
-![HTML](https://img.shields.io/badge/HTML-ff4d88?style=flat&logo=html5&logoColor=white)
-![Tailwind](https://img.shields.io/badge/TailwindCSS-ff99cc?style=flat&logo=tailwindcss&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-ff80bf?style=flat&logo=php&logoColor=white)
+Motorcycle browsing platform with modern UI and dealership integration.
 
 🔗 https://rovage-motors-ver2.bscs3b.com/
 
 ---
 
-# GitHub Contributions
+## GitHub Analytics
+
+<div align="center">
+
+<img width="49%"
+src="https://github-readme-stats.vercel.app/api?username=SeraphicXxx&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=ff69b4&icon_color=ff69b4&text_color=ffffff"/>
+
+<img width="49%"
+src="https://github-readme-streak-stats.herokuapp.com/?user=SeraphicXxx&theme=radical&hide_border=true&background=0d1117&ring=ff69b4&fire=ff69b4&currStreakLabel=ff69b4"/>
+
+<br><br>
+
+<img width="40%"
+src="https://github-readme-stats.vercel.app/api/top-langs/?username=SeraphicXxx&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=ff69b4&text_color=ffffff"/>
+
+</div>
+
+<br>
 
 <div align="center">
 
 <img width="95%"
-src="https://streak-stats.demolab.com?user=SeraphicXxx&theme=radical&hide_border=true&background=0D1117&ring=ff69b4&fire=ff69b4&currStreakLabel=ff69b4&sideNums=ff69b4&currStreakNum=ffffff&dates=ffffff"
-/>
-
-<br><br>
-
-<img height="180em"
-src="https://github-readme-stats.vercel.app/api?username=SeraphicXxx&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=ff69b4&icon_color=ff69b4&text_color=ffffff"
-/>
-
-<img height="180em"
-src="https://github-readme-stats.vercel.app/api/top-langs/?username=SeraphicXxx&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=ff69b4&text_color=ffffff"
-/>
-
-<br><br>
-
-<img width="95%"
-src="https://github-readme-activity-graph.vercel.app/graph?username=SeraphicXxx&bg_color=0D1117&color=ff69b4&line=ff69b4&point=ffffff&area=true&hide_border=true"
-/>
+src="https://github-readme-activity-graph.vercel.app/graph?username=SeraphicXxx&bg_color=0d1117&color=ff69b4&line=ff69b4&point=ffffff&area=true&hide_border=true"/>
 
 </div>
 
 ---
 
-# Currently Working On
+## Currently Learning
 
-- Building responsive web interfaces
-- Improving full-stack development skills
-- Learning Laravel ecosystem
-- Enhancing UI/UX consistency
-- API integrations
+- Laravel ecosystem
+- API integration
+- Advanced frontend architecture
 
 ---
 
-# Connect With Me
+## Contact
 
 <div align="center">
 
-📧 angelemiejane.bien@gmail.com
-
-<br>
+<a href="mailto:angelemiejane.bien@gmail.com">
+<img src="https://img.shields.io/badge/Email-ff69b4?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
 
 <a href="https://github.com/SeraphicXxx">
-<img src="https://img.shields.io/badge/GitHub-ff69b4?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub-ffb6c1?style=for-the-badge&logo=github&logoColor=black"/>
 </a>
 
 </div>
 
----
+<br>
 
-<div align="center">
-
-### ✨ Focused on clean UI, responsive design, and meaningful user experiences ✨
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff69b4,100:ffb6c1&height=140&section=footer"/>
-
-</div>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:ff69b4,100:0d1117"/>
