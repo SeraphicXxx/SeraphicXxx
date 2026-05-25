@@ -149,13 +149,47 @@ Motorcycle browsing platform with listings and dealership integration.
 ## Contributions
 
 <div align="center">
+
 <table>
 <tr>
-<td><img src="https://streak-stats.demolab.com?user=SeraphicXxx&theme=default&ring=ff69b4&fire=ff69b4"/></td>
-<td><img src="https://github-readme-stats.vercel.app/api?username=SeraphicXxx&show_icons=true&theme=default&title_color=ff69b4&icon_color=ff69b4"/></td>
+<td>
+<img 
+src="https://streak-stats.demolab.com?user=SeraphicXxx&theme=radical&hide_border=true&background=0D1117&ring=ff69b4&fire=ff69b4&currStreakLabel=ff69b4&sideLabels=ffb6d9&dates=ffffff"
+alt="GitHub Streak"
+/>
+</td>
 </tr>
+
+<tr>
+<td>
+<img 
+src="https://github-readme-stats.vercel.app/api?username=SeraphicXxx&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=ff69b4&icon_color=ff69b4&text_color=ffffff"
+alt="GitHub Stats"
+/>
+</td>
+</tr>
+
+<tr>
+<td>
+<img 
+src="https://github-readme-activity-graph.vercel.app/graph?username=SeraphicXxx&bg_color=0D1117&color=ff69b4&line=ff69b4&point=ffffff&area=true&hide_border=true"
+alt="Contribution Graph"
+/>
+</td>
+</tr>
+
+<tr>
+<td>
+<img 
+src="https://github-readme-stats.vercel.app/api/top-langs/?username=SeraphicXxx&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=ff69b4&text_color=ffffff"
+alt="Top Languages"
+/>
+</td>
+</tr>
+
 </table>
-</div>
+
+</div>>
 
 ---
 
