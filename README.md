@@ -63,16 +63,22 @@ Motorcycle browsing platform with modern UI and dealership integration.
 
 <div align="center">
 
-<img width="49%"
-src="https://github-readme-stats.vercel.app/api?username=SeraphicXxx&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=ff69b4&icon_color=ff69b4&text_color=ffffff"/>
+<img
+height="170"
+src="https://github-readme-stats.vercel.app/api?username=SeraphicXxx&show_icons=true&theme=radical&hide_border=true&bg_color=00000000&title_color=ff69b4&icon_color=ff69b4&text_color=ffffff&include_all_commits=true&count_private=true"
+/>
 
-<img width="49%"
-src="https://streak-stats.demolab.com?user=SeraphicXxx&theme=radical&hide_border=true&background=0d1117&ring=ff69b4&fire=ff69b4&currStreakLabel=ff69b4&sideNums=ff69b4&currStreakNum=ffffff&dates=ffffff"/>
+<img
+height="170"
+src="https://github-readme-streak-stats-eight.vercel.app/?user=SeraphicXxx&theme=radical&hide_border=true&background=00000000&ring=ff69b4&fire=ff69b4&currStreakLabel=ff69b4&sideNums=ffffff&currStreakNum=ffffff&dates=ffffff"
+/>
 
 <br><br>
 
-<img width="40%"
-src="https://github-readme-stats.vercel.app/api/top-langs/?username=SeraphicXxx&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=ff69b4&text_color=ffffff"/>
+<img
+height="170"
+src="https://github-readme-stats.vercel.app/api/top-langs/?username=SeraphicXxx&layout=compact&theme=radical&hide_border=true&bg_color=00000000&title_color=ff69b4&text_color=ffffff"
+/>
 
 </div>
 
@@ -80,8 +86,10 @@ src="https://github-readme-stats.vercel.app/api/top-langs/?username=SeraphicXxx&
 
 <div align="center">
 
-<img width="95%"
-src="https://github-readme-activity-graph.vercel.app/graph?username=SeraphicXxx&bg_color=0d1117&color=ff69b4&line=ff69b4&point=ffffff&area=true&hide_border=true"/>
+<img
+width="95%"
+src="https://github-readme-activity-graph.vercel.app/graph?username=SeraphicXxx&bg_color=0d1117&color=ff69b4&line=ff69b4&point=ffffff&area=true&hide_border=true"
+/>
 
 </div>
 
