@@ -95,14 +95,6 @@ src="https://github-readme-activity-graph.vercel.app/graph?username=SeraphicXxx&
 
 ---
 
-## Currently Learning
-
-- Laravel ecosystem
-- API integration
-- Advanced frontend architecture
-
----
-
 ## Contact
 
 <div align="center">
