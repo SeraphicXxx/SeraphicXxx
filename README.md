@@ -63,10 +63,10 @@ Motorcycle browsing platform with modern UI and dealership integration.
 
 <div align="center">
 
-<img
+<!-- <img
 height="170"
 src="https://github-readme-stats.vercel.app/api?username=SeraphicXxx&show_icons=true&theme=radical&hide_border=true&bg_color=00000000&title_color=ff69b4&icon_color=ff69b4&text_color=ffffff&include_all_commits=true&count_private=true"
-/>
+/> -->
 
 <img
 height="170"
@@ -75,12 +75,12 @@ src="https://github-readme-streak-stats-eight.vercel.app/?user=SeraphicXxx&theme
 
 <br><br>
 
-<img
+<!-- <img
 height="170"
 src="https://github-readme-stats.vercel.app/api/top-langs/?username=SeraphicXxx&layout=compact&theme=radical&hide_border=true&bg_color=00000000&title_color=ff69b4&text_color=ffffff"
 />
 
-</div>
+</div> -->
 
 <br>
 
